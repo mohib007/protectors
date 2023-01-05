@@ -1,0 +1,6 @@
+= v1.0.0 (1st Feburary, 2021) =
+--------------------------
+- All Columns  same as enquiry report 1 including above mentioned
+- Remove 3 columns(Billing Company Name, Billing name, and Deal Title)
+- Initial release
+

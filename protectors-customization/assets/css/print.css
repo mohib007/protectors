@@ -1,0 +1,56 @@
+body{
+    font-family: arial;
+    font-size: 11px;
+}
+.wrapper-printing{
+    width: 1024px !important;
+}
+table{
+    font-size: 11px !important;;
+}
+td.logo-print {
+    width: 15%;
+}
+.checkbox-row{
+    width: 30%;
+}
+
+.headerRow table tr:first-child td {
+    border-top: 1px solid darkgray;
+}
+
+table tr td:last-child {
+    border-right: 1px solid darkgray;
+}
+
+tr.NoBorderRight td:last-child {
+    border-right: 0px;
+}
+
+table td {
+    border-bottom: 1px solid darkgray;
+    border-left: 1px solid darkgray;
+    padding: 3px 5px 3px 5px;
+}
+
+.background-row{
+    background: lightgray;
+}
+
+.background-row .logo-slogan, .special-column-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 11px;
+}
+
+.background-row td {
+    font-size: 9px;
+}
+
+.FullField.ItemRemarks {
+    height: 80px;
+}
+.FullField {
+    height: 50px;
+    vertical-align: top;
+}
